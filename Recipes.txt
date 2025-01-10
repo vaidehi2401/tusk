@@ -1,5 +1,12 @@
 Welcome to telusko kitchen
 Jalebi added
 Pasta
-This is my main branch.
+
+Beans
+Pizza
+
+
+This is my merged code.
+
 Thank u:)
+
